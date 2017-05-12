@@ -8,10 +8,10 @@
     </feature>
     <name>acme</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Simple Acme Website Application
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="u608110@gmail.com" href="http://belchenkov.ru">
+        Aleksey Belchenkov
     </author>
     <content src="index.html" />
     <access origin="*" />
